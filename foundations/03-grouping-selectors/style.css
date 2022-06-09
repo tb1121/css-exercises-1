@@ -1,17 +1,17 @@
 .firstbtn {
     background-color: black;
     color: white;
-    font-family: Helvetica, Times, sans-serif;  ;
+    font-family: Helvetica, "Times New Roman", sans-serif;  ;
     
 
 }
 
 .secondbtn {
     background-color: yellow;
-    font-family: Helvetica, Times, sans-serif;
-    =
+    font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
-.shared {
+.firstbtn,
+.secondbtn {
     font-size: 28px;
 }
